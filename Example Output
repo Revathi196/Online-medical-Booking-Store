@@ -1,0 +1,48 @@
+--- Medical Booking System ---
+1. Add a new doctor
+2. View available doctors
+3. Book an appointment
+4. Cancel an appointment
+5. View booked appointments
+6. Exit
+Please select an option: 1
+Enter doctor's name: Dr. Smith
+Enter doctor's specialty: Cardiology
+Doctor 'Dr. Smith' added to the system.
+
+--- Medical Booking System ---
+1. Add a new doctor
+2. View available doctors
+3. Book an appointment
+4. Cancel an appointment
+5. View booked appointments
+6. Exit
+Please select an option: 2
+
+Available Doctors:
+ID: 1, Name: Dr. Smith, Specialty: Cardiology, Available: True
+
+--- Medical Booking System ---
+1. Add a new doctor
+2. View available doctors
+3. Book an appointment
+4. Cancel an appointment
+5. View booked appointments
+6. Exit
+Please select an option: 3
+Enter patient's name: John Doe
+Enter doctor's ID: 1
+Enter appointment time (YYYY-MM-DD HH:MM): 2025-02-10 14:00
+Appointment booked for John Doe with Dr. Smith at 2025-02-10 14:00.
+
+--- Medical Booking System ---
+1. Add a new doctor
+2. View available doctors
+3. Book an appointment
+4. Cancel an appointment
+5. View booked appointments
+6. Exit
+Please select an option: 5
+
+Booked Appointments:
+Patient: John Doe, Doctor: Dr. Smith, Time: 2025-02-10 14:00
